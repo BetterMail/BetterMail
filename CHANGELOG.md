@@ -41,3 +41,4 @@
 
 > V 0.1.0
 - Coming shortly.
+- Added Github Changelogs.
